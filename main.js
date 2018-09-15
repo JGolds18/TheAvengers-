@@ -33,6 +33,6 @@ if (speed < 30) {
 
 //let pro = prompt("Buddy the elf! What's your favorite color?");
 //let con;
-//con = confirm("Hey Buddy, wanna pick some snowberries?")
+con = confirm("Thanks for visting!")
 //console.log(con)
 //let al = alert("You sit on a throne of lies!");
