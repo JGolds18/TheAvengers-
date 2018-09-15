@@ -1,0 +1,23 @@
+body { 
+    background-color: bisque;
+}
+
+
+#title {
+    color: purple;
+}
+
+.hour {
+  color: rgb(33, 64, 155);  
+  
+}
+
+p {
+    font-size: 36px;
+    text-align: right;
+}
+
+.hourTitle {
+    font-weight: bold;
+    color: rgb(218, 83, 173);
+}
