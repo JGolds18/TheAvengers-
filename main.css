@@ -1,23 +1,33 @@
 body { 
-    background-color: bisque;
+    background-color: rgb(82, 122, 252);
 }
 
 
 #title {
-    color: purple;
+    color: bisque;
+    font-weight: bold
+}
+
+#paragraph {
+    color: bisque
 }
 
 .hour {
-  color: rgb(33, 64, 155);  
+  color: bisque;  
   
 }
 
 p {
-    font-size: 36px;
-    text-align: right;
+    font-size: 20px;
+    text-align: leftt;
 }
 
 .hourTitle {
     font-weight: bold;
-    color: rgb(218, 83, 173);
+    color:rgb(4, 70, 42);
+}
+
+#link {
+    font-weight: bold;
+    color: rgb(132, 214, 132);
 }
